@@ -1,0 +1,12 @@
+宇树ros2库
+https://github.com/unitreerobotics/unitree_ros2
+
+cycloneDDS 文档
+https://cyclonedds.io/docs/cyclonedds/latest/index.html
+
+MQTT服务端
+https://blog.csdn.net/yyz_1987/article/details/131607972
+https://blog.csdn.net/gls_nuaa/article/details/129151591
+
+ROS2/MQTT中间件库
+https://github.com/ika-rwth-aachen/mqtt_client
